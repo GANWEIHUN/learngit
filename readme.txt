@@ -5,3 +5,4 @@ a new line
 git track changes of fiel
 connecting success.
 create a new branch quick & simple.
+head point to branch.

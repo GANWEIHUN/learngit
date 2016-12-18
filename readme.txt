@@ -7,3 +7,4 @@ connecting success.
 create a new branch quick & simple.
 head point to branch.
 fix 101-bug successed.
+edit in home-pc.
